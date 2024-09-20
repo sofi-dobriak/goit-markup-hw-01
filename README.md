@@ -1,1 +1,1 @@
-# sofi-dobriak-goit-markup-hw-01
+The first homework from the FullStack course by GoIT
